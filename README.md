@@ -1,4 +1,4 @@
-# multistepform
+# Multistepform
 
 ## Project setup
 
